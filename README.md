@@ -1,1 +1,1 @@
-this repository is only for learning.
+this repository is for React Js learning.
