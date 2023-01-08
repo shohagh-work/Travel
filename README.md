@@ -1,1 +1,1 @@
-This project is for practiceing javascript, nodejs, react, expressjs & mongodb.
+This project is for practicing javascript, nodejs, react, expressjs & mongodb.
